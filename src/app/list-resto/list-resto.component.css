@@ -1,0 +1,23 @@
+.headingH1{
+    text-align: center;
+    color: #21c512;
+}
+
+.table{
+    background-color: aqua;
+
+}
+
+.heading{
+    color: #21c512;
+    background-color: brown;
+}
+
+.id{
+    background-color: red;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+    padding: 10px;
+}
