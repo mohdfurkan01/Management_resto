@@ -7,6 +7,7 @@ export class RestoService {
   url = 'http://localhost:3000/restaurants';
   rooturl = 'http://localhost:3000/';
   constructor(private http: HttpClient) {}
+  
   getList() {
     // console.log("Some data")
     // //console.warn("Some data")
