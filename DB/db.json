@@ -1,0 +1,105 @@
+{
+  "restaurants": [
+    {
+      "name": "New restaurant",
+      "email": "restaurant@gmail.com",
+      "address": "Faridpur Bareilly",
+      "id": 2
+    },
+    {
+      "name": "kfc restaurant",
+      "email": "kfc@gmail.com",
+      "address": "Noida sector 64",
+      "id": 3
+    },
+    {
+      "name": "Lovely restaurant",
+      "email": "lovely@gmail.com",
+      "address": "Bareilly bypass road",
+      "id": 5
+    },
+    {
+      "name": "G lemon",
+      "email": "lemon@gmail.com",
+      "address": "Allahbaad",
+      "id": 6
+    },
+    {
+      "name": "FleshBack",
+      "email": "fleshback@gmail.com",
+      "address": "Bareilly India",
+      "id": 7
+    },
+    {
+      "name": "Darbaar-e-Khaas",
+      "email": "darbar@gmail.com",
+      "address": "Bareilly Sharif",
+      "id": 8
+    },
+    {
+      "name": "Natural Food",
+      "email": "food@gmail.com",
+      "address": "Lucknow",
+      "id": 11
+    },
+    {
+      "name": "Roofyaard",
+      "email": "yardroof12@gmail.com",
+      "address": "Bareilly",
+      "id": 12
+    },
+    {
+      "name": "UserForTest",
+      "email": "testing123@",
+      "address": "Bareilly UP",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "name": "hello",
+      "email": "myemail@gmail.com",
+      "password": "748374y8",
+      "id": 1
+    },
+    {
+      "name": "Shahzada",
+      "email": "shahzada@gmail.com",
+      "password": "748374y89239",
+      "id": 2
+    },
+    {
+      "name": "Saahabzada",
+      "email": "saahabzada@gmail.com",
+      "password": "387483294y89",
+      "id": 3
+    },
+    {
+      "name": "furkan",
+      "email": "furkan@gmail.com",
+      "password": "123456",
+      "address": "Faridpur",
+      "id": 4
+    },
+    {
+      "name": "Evil",
+      "email": "evil@gmail.com",
+      "password": "88993434",
+      "address": "Maharajganj",
+      "id": 5
+    },
+    {
+      "name": "UserForTest",
+      "email": "testing123@",
+      "password": "test12345",
+      "id": 6
+    },
+    {
+      "name": "UserForTest",
+      "email": "testing123@",
+      "password": "test12345",
+      "address": "Bareilly UP",
+      "id": 7
+    }
+  ]
+}
